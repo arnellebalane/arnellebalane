@@ -1,6 +1,6 @@
 ### 👋  Hey! I'm Arnelle!
 
-I'm a Software Developer from Cebu, Philiippines, currently building cool things at [Newlogic](https://newlogic.io/). Right now I'm working on my talks for some online events this year. You can see them [here](https://arnellebalane.com/events/), and it would be great if you can join us!
+I'm a Software Developer from Cebu, Philippines, currently building cool things at [Newlogic](https://newlogic.io/). Right now I'm working on my talks for some online events this year. You can see them [here](https://arnellebalane.com/events/), and it would be great if you can join us!
 
 I’m currently learning NuxtJS and about Web performance optimizations. You can ask me about Web technologies, Project Fugu, Progressive Web Apps, JavaScript. You can reach me through [email](mailto:arnellebalane@gmail.com) or [Twitter](https://twitter.com/arnellebalane).
 
