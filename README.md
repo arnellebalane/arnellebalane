@@ -4,7 +4,7 @@ I'm a Software Developer from Cebu, Philippines, currently building cool things 
 
 I’m currently learning NuxtJS and about Web performance optimizations. You can ask me about Web technologies, Project Fugu, Progressive Web Apps, JavaScript. You can reach me through [email](mailto:arnellebalane@gmail.com) or [Twitter](https://twitter.com/arnellebalane).
 
-⚡  Fun fact: I do some card tricks too.
+⚡  Fun fact: I do some card tricks too 🃏
 
 <!--
 **arnellebalane/arnellebalane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
