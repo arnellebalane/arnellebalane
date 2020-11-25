@@ -1,22 +1,14 @@
 ### 👋  Hey! I'm Arnelle!
 
-I'm a Software Developer from Cebu, Philippines, currently building cool things at [Newlogic](https://newlogic.io/). Right now I'm working on my talks for some online events this year. You can see them [here](https://arnellebalane.com/events/), and it would be great if you can join us!
+- 🦉 Tech Lead and Open Source Specialist at [Newlogic](https://newlogic.com/)
+- 🇵🇭 Based in Cebu, Philippines
+- ✍️ I publish technical articles and tutorials on my [blog](https://arnellebalane.com/blog/)
+- 💬 Ask me about [Web Capabilities](https://www.chromium.org/teams/web-capabilities-fugu), Progressive Web Apps, JavaScript, and [Firebase](https://firebase.google.com/)
+- 📹 I talk about Web-related topics on our Youtube channel [Uncaught Exception](https://www.youtube.com/channel/UCoow46mLzpCMJ7y1BEuAWFw), please subscribe!
+- 🃏 Fun fact: I can do some card tricks!
 
-You can ask me about Web technologies, Project Fugu, Progressive Web Apps, JavaScript, and Firebase. You can reach me through [email](mailto:arnellebalane@gmail.com) or [Twitter](https://twitter.com/arnellebalane).
+### Get in touch
 
-⚡  Fun fact: I do some card tricks too! 🃏
-
-<!--
-**arnellebalane/arnellebalane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: https://arnellebalane.com
+- Twitter: https://twitter.com/arnellebalane
+- Email: [mailto:arnellebalane@gmail.com](arnellebalane@gmail.com)
