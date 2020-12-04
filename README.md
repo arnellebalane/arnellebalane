@@ -11,4 +11,4 @@
 
 - Website: https://arnellebalane.com
 - Twitter: https://twitter.com/arnellebalane
-- Email: [mailto:arnellebalane@gmail.com](arnellebalane@gmail.com)
+- Email: [arnellebalane@gmail.com](mailto:arnellebalane@gmail.com)
